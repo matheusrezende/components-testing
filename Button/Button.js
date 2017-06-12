@@ -46,11 +46,12 @@ const styles = {
         flex: 1,
         flexDirection: 'row',
         alignItems: 'center',
-        backgroundColor: '#fff',
+        backgroundColor: 'red',
         borderRadius: 5,
         borderWidth: 1,
         marginLeft: 5,
-        marginRight: 5
+        marginRight: 5,
+        maxHeight: 60
     }
 };
 
