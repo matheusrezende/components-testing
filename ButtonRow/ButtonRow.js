@@ -20,4 +20,4 @@ const styles = {
     }
 };
 
-export { ButtonRow };
+export default ButtonRow;

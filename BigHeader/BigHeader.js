@@ -116,4 +116,4 @@ const styles = {
     }
 };
 
-export { BigHeader };
+export default BigHeader;

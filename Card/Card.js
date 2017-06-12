@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { View } from 'react-native';
 
@@ -26,4 +27,4 @@ const styles = {
   }
 };
 
-export { Card };
+export default Card;

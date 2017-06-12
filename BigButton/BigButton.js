@@ -60,4 +60,4 @@ const styles = {
     }
 };
 
-export { BigButton };
+export default BigButton;
